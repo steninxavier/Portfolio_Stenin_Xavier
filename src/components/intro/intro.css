@@ -81,4 +81,7 @@
     padding: 0px 0px 0px 80px;
     height: 535px;
   }
+  .intro-bg{
+    display: none;
+  }
 }
