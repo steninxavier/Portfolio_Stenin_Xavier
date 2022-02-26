@@ -11,6 +11,7 @@ const Intro = () => {
             <div className="linkedin">
               <a
                 href="https://www.linkedin.com/in/stenin-xavier-606383b7/"
+                target="_blank"
               >
                 {" "}
                 <img
@@ -21,7 +22,7 @@ const Intro = () => {
               </a>
             </div>
             <div className="github">
-              <a href="https://github.com/steninxavier">
+              <a href="https://github.com/steninxavier" target="_blank">
                 {" "}
                 <img
                   src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
