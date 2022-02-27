@@ -17,7 +17,7 @@ const About = () => {
           have started building projects and learning new skills. I have learned
           javascript frameworks, databases and some backend technologies as
           well. I have been creating new projects day by day. Now I have nearly
-          1.5 years experience in frontend development technologies. So I would
+          1.5 years of experience in frontend development technologies. So I would
           like to work with a team to explore and improve my skills as well
           which help me to become a perfect developer. I am looking
           for new challenges and I am looking forward to working with you.
