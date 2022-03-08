@@ -7,7 +7,7 @@ const About = () => {
         <h1 className="about-title">About Me</h1>
         <h4 className="aboutMe">
           Welcome to my world of development. I am a self-taught developer who
-          have started the career as a freelancer. I had been creating WordPress
+          has started the career as a freelancer. I had been creating WordPress
           websites with SEO and building websites with HTML CSS and javascript.
           I have completed my bachelor's in computer science and I came to
           Germany in 2019 to do my master's in business administration to gain
