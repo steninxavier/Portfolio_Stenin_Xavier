@@ -13,8 +13,8 @@ const About = () => {
           Germany in 2019 to do my master's in business administration to gain
           some managerial skills. After my master's thesis, I have joined a
           company as a web developer intern for 3 months. After my internship, I
-          have realised that I have to explore more in frontend development which led to
-          have started building projects and learning new skills. I have learned
+          have realized that I have to explore more in frontend development which led to
+          started building projects and learning new skills. I have learned
           javascript frameworks, databases and some backend technologies as
           well. I have been creating new projects day by day. Now I have nearly
           1.5 years of experience in frontend development technologies. So I would
